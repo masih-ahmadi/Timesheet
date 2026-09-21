@@ -1,6 +1,6 @@
-# FUNDED Timesheet App
+# Timesheet App
 
-Full-stack timesheet application for the FUNDED code challenge: create yearly timesheets by German region, record working hours and days off, see weekends and public holidays, and edit multiple days at once.
+Full-stack timesheet application: create yearly timesheets by German region, record working hours and days off, see weekends and public holidays, and edit multiple days at once.
 
 ## Getting started
 
